@@ -1,0 +1,19 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2026-04-26\ at\ 00.45.38.jpeg);
+    color:white(247, 245, 245);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to bottom);
+    
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+*{
+    color: white;
+background-color: none;
+
+}
